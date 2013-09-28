@@ -49,9 +49,9 @@ Write a (very) small post-mortem report containing everything you've tracked for
 
 After 2 weeks, measure the feature's performance:
 
-- How did it hold up against the company's quality standards?
-- How did it's usage compare against your goals set in step 2?
+- How did its usage compare against your goals set in step 2?
 - Did it seem to provide worthwile value to people using your product?
+- How did it hold up against the company's quality standards?
 - What other things are worth noting about this feature?
 
 Update your post-mortem report with the answers to the above questions.
