@@ -33,6 +33,8 @@ Post these items somewhere for the team to see easily. Don't bury them in some o
 
 Understand how this feature fits into your product's technology architecture. Don't just hack it in, decide on the best way for this new logic to fit into your product gracefully. Ensure to build in a way to track progress against your measurables from step 2.
 
+Ensure that you don't skip over the creation of engagement material for this feature: Email / social media campaign, website update, blog post, etc.
+
 Now build the feature using whatever strategies your team likes best.
 
 As you build the feature, write down the major challenges your team faced, what you would have done differently, etc.
