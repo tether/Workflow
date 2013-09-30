@@ -42,7 +42,7 @@ Post these items somewhere for the team to see easily. Don't bury them in some o
 
 ### 3. CREATE.
 
-- Understand how this feature fits into your current product's architecture. **Don't just hack it in**. Decide on the best way for this new logic to fit into your product gracefully.
+- Determine how this feature fits into your current product's architecture. **Don't just hack it in**. Decide on the best way for this new logic to fit into your product gracefully.
     - Consider technical debt or bugs that may be impeding the progress of the improvement.
     - Ensure to build in a way to track progress against your measurables from step 2.
 
