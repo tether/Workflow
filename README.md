@@ -83,4 +83,4 @@ Post these items somewhere for the team to see easily. Don't bury them in some o
 
 - Update your post-mortem report with the answers to the above questions.
 
-- Present about this feature to a group of people outside of your team.
+- Present your post-mortem to a group of people outside of your team in order to spread knowledge and get feedback :rainbow:.
