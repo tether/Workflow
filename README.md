@@ -19,7 +19,7 @@
 - Decide what the next product improvement is (feature, stability/performance improvement, tech debt, etc).
 - Verify that this product improvement provides value for the people who use your product. Especially if this is a feature focused on a specific target audience.
     - Challenge the reason to put scarce resources into it.
-- Verify that <strong>NOW</strong> is the proper time to implement this improvement.
+- Verify that **NOW** is the proper time to implement this improvement.
     - Challenge the reason to put scarce resources into it at this very moment.
 
 ### 2. UNDERSTAND.
@@ -42,11 +42,11 @@ Post these items somewhere for the team to see easily. Don't bury them in some o
 
 ### 3. CREATE.
 
-- Understand how this feature fits into your current product's architecture. *Don't just hack it in*. Decide on the best way for this new logic to fit into your product gracefully.
+- Understand how this feature fits into your current product's architecture. **Don't just hack it in**. Decide on the best way for this new logic to fit into your product gracefully.
     - Consider technical debt or bugs that may be impeding the progress of the improvement.
     - Ensure to build in a way to track progress against your measurables from step 2.
 
-- As a team go on and *CRUSH* your enhancement using whatever strategies you like best.
+- As a team go on and **CRUSH** your enhancement using whatever strategies you like best.
 
 - Write automated tests for your brand spanking new improvement. (Make sure they all pass :smile:)
 
